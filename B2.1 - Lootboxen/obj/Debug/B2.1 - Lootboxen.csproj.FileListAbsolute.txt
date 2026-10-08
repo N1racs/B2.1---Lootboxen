@@ -1,0 +1,7 @@
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.1 - Lootboxen\B2.1 - Lootboxen\bin\Debug\B2.1 - Lootboxen.exe.config
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.1 - Lootboxen\B2.1 - Lootboxen\bin\Debug\B2.1 - Lootboxen.exe
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.1 - Lootboxen\B2.1 - Lootboxen\bin\Debug\B2.1 - Lootboxen.pdb
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.1 - Lootboxen\B2.1 - Lootboxen\obj\Debug\B2.1 - Lootboxen.csproj.AssemblyReference.cache
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.1 - Lootboxen\B2.1 - Lootboxen\obj\Debug\B2.1 - Lootboxen.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.1 - Lootboxen\B2.1 - Lootboxen\obj\Debug\B2.1 - Lootboxen.exe
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.1 - Lootboxen\B2.1 - Lootboxen\obj\Debug\B2.1 - Lootboxen.pdb
